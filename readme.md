@@ -1,10 +1,6 @@
-====
-db4o
-====
+# db4o
 
 This is a clone of db4o (database for objects).
-
-Source is from https://source.db4o.com/db4o
 
 It was developed, commercially licensed and supported by Versant.
 
